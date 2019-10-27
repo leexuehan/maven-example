@@ -16,6 +16,5 @@ The vim is difficult to adapt to and the modify is on the branch dev.
 
 Fix some bugs.
 
-Continue doing something.
+hello! Dinner is ready. Down to eat!
 
-Other guys do some modification.
