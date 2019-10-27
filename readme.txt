@@ -7,3 +7,13 @@ The vim is difficult to adapt to.
 The modify is on the branch dev.
 
 It's me do something different.
+
+The modify is on the master branch.
+
+The vim is difficult to adapt to and the modify is on the branch dev.
+
+Fix some bugs.
+
+Continue doing something.
+
+Other guys do some modification.
